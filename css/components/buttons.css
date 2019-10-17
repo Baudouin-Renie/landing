@@ -1,0 +1,16 @@
+#button-banner {
+  border: 1px solid #FADFAF;
+  padding: 10px 25px;
+  border-radius: 25px;
+  color: #FADFAF;
+  font-weight: bold;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#button-banner:hover {
+  background-color: rgba(250, 223, 175, 0.5);
+  color: #8D2618;
+  text-shadow: none;
+  transition: 0.5s;
+}
